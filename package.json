@@ -1,0 +1,16 @@
+{
+  "name": "serverless-telegram-bot",
+  "description": "Serverless test ",
+  "version": "0.1.0",
+  "keywords": [
+    "python",
+    "aws",
+    "lambda",
+    "serverless"
+  ],
+  "author": "nbelzer",
+  "license": "MIT",
+  "dependencies": {
+    "serverless-python-requirements": "^3.0.9"
+  }
+}
